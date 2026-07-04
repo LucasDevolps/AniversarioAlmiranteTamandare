@@ -2,19 +2,19 @@
 
 --- 
 
-- Fogo do consoleho
+# Fogo do conselhos
   - No lado da banda 
 
-- Lenço pequeno dos desbravadores
+# Lenço pequeno dos desbravadores
   - Na frente do pulpito
 
-- Painel 
+# Painel 
   - por a nossa mão em tinta 
   - Nome integrantes do clube
   - Fotos e o ano do clube
   - Espaço para as pessoas escreverem
 
-- Faixas com as especialidades 
+# Faixas com as especialidades 
   - No lado dos cantores
 
 # Escola Sabatina 
@@ -40,6 +40,6 @@
   - Paola
 
 # Pregação
-  - Eufrazio 
+  - Eufrasio 
 
 
