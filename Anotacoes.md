@@ -21,17 +21,17 @@
   - Felipe Nascimento
   - Felipe Rocha 
 
-# Louvores 
+# Louvor
   - Mell
   - Manu
   - Paolla 
   - Lucas Santos 
 
 # Anuncios
-  - 
+  - Guilherme
 
-# Mensagem Musica
-  - Meell 
+# 2 - Mensagens Musicais
+  - Mell 
   - Manu
 
 # Histórinha Infantil
