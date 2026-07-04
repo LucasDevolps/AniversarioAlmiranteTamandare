@@ -1,7 +1,5 @@
 # Decoração do clube
 
---- 
-
 # Fogo do conselhos
   - No lado da banda 
 
